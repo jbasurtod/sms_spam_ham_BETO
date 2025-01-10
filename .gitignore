@@ -1,0 +1,5 @@
+bertenv/*
+model/*
+beto_fine_tuned/*
+data/*
+.venv/*
